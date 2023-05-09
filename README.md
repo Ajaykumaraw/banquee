@@ -1,9 +1,9 @@
 
 #  Banquee Financial card service Template Design || Template Design
 
-![Screenshot from 2023-05-09 18-33-22](https://github.com/Ajaykumaraw/banquee/assets/108172914/5df11ee8-47a7-4e20-8674-bb895a5a0213 | width="500px")
+![Screenshot from 2023-05-09 18-33-22](https://github.com/Ajaykumaraw/banquee/assets/108172914/5df11ee8-47a7-4e20-8674-bb895a5a0213)
 
-![Screenshot from 2023-05-09 18-33-42](https://github.com/Ajaykumaraw/banquee/assets/108172914/e911d0c3-9af4-4ff3-92fd-659b094b0293 | width="500px")
+![Screenshot from 2023-05-09 18-33-42](https://github.com/Ajaykumaraw/banquee/assets/108172914/e911d0c3-9af4-4ff3-92fd-659b094b0293)
 
 
 https://www.youtube.com/watch?v=Pa8Nb5OkJbk
