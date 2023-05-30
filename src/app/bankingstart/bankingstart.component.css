@@ -1,0 +1,89 @@
+section{
+    width: 100%;
+    height: 85vh;
+    font-family: 'Poppins', sans-serif;
+    background: var(--home-background-color);
+    position: relative;
+}
+.view-section{
+    margin-top: 10%;
+}
+.transection-content{
+    margin: auto;
+    width: 85%;
+    padding-left: 8rem;
+    padding-top: 3rem;
+}
+.trans-heading h4{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.trans-heading h1{
+    font-weight: 600;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.discription{
+    margin-bottom: 1rem;
+}
+.snap{
+    margin: auto;
+    width: 50%; 
+    height: 50%;
+    -webkit-transform:rotate(1deg);
+    -moz-transform: rotate(1deg);
+    -ms-transform: rotate(1deg);
+    -o-transform: rotate(1deg);
+    transform: rotate(1deg);
+}
+
+.crt-acc{
+    background: var(--primary-color);
+    color: #fff;
+    padding: .7rem 1rem;
+    font-size: 1rem;
+}
+.crt-acc:hover{
+    border: 1px solid var(--primary-color);
+    background: #fff;
+    color: var(--primary-color);
+}
+.comp-card{
+    color: var(--primary-color);
+    background: #fff;
+    border: 1px solid var(--primary-color);
+    padding: .7rem 1rem;
+    font-size: .9rem;
+}
+/* compare carb button */
+.comp-card:hover{
+    background: var(--primary-color);
+    color: #fff;
+}
+.snap .firstcard{
+    height: 24rem;
+    width: 15rem;
+    z-index: 100;
+    margin-top: 5rem;
+    position: absolute;
+    -webkit-transform:rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+.snap .secondcard{
+    height: 24rem;
+    width: 15rem;
+    position: absolute;
+    margin-top: 5rem;
+    margin-left: 2rem;
+    -webkit-transform:rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    transform: rotate(12deg);
+}
+.firstcard:hover{
+    transform: rotate(15deg);
+}

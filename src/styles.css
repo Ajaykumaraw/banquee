@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color:rgb(27, 139, 111);
+    --home-background-color:rgb(235, 245, 242);
+    --gray-fontcolor:rgb(48, 47, 47);
+    --gold-font:rgb(243, 235, 161);
+}
+.button{
+    margin-right: .5rem ;
+    margin-top: .7rem;
+    padding: .5rem .7rem;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+    border-radius: .3rem;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: .8rem;
+}

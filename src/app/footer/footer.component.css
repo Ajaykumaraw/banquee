@@ -1,0 +1,68 @@
+.footer{
+    width: 100%;
+    margin: auto;
+    height: 80vh;
+    margin-top: 5rem;
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+.row{
+    width: 80%;
+    margin: auto;
+    background: var(--primary-color);
+    border-radius: 1rem;
+}
+.transection-content{
+    width: 85%;
+    padding-left: 4rem;
+    padding-top: 3rem;
+    color: #fff;
+}
+.trans-heading h4{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.trans-heading h1{
+    font-weight: 400;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+.discription{
+    margin-bottom: 1rem;
+}
+.snap{
+    margin: auto;
+    width: 50%; 
+}
+.mobile-snap{
+    width: 19rem;
+    height: 40rem;
+    margin-top: 5rem;
+}
+.content-buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: -4rem;
+}
+.appstore{
+    width: 8.5rem;
+    height: 2.4rem;
+    border-radius: .5rem;
+    background-image: url("/assets/appstore.png");
+    background-size: cover;
+    margin-right: 2rem;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+.playstore{
+    width: 8.5rem;
+    height: 2.4rem;
+    border-radius: .5rem;
+    background-image: url("/assets/playstore.png");
+    background-size: cover;
+}
+.appstore:hover{
+    transform: rotate(18deg);
+}
